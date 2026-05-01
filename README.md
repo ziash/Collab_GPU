@@ -1,5 +1,5 @@
 # Collab_GPU
-Use Google Collab for free GPU access
+Use Google Collab for free GPU access. Use Google free GPU for updating your code via OpenCode or Claude
 
 ---------------------------------------------------------------------------
 Install and run xterm with following commands:
