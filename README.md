@@ -5,7 +5,9 @@ Use Google Collab for free GPU access
 Install and run xterm with following commands:
 ----------
 !pip install colab-xterm
+
 %load_ext colabxterm
+
 %xterm
 
 In the Terminal Run Following Commands:
