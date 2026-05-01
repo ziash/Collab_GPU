@@ -46,3 +46,8 @@ I choose gemma4:latest.
 You can also pull
 ollama pull qwen3.5:9b
 ollama run qwen3.5:9b --verbose
+
+Now I will install opencode (you can also install claude/ gemini) and connect it with gemma4 on Google Free TPU
+--------------
+
+<img width="1222" height="705" alt="image" src="https://github.com/user-attachments/assets/3ccee4a6-c788-41f8-adf7-6d8933d5b46c" />
